@@ -8,9 +8,9 @@ Goals this week
 - Edit one small file (hello.txt or sample data) and commit.
 
 Checklist
-- [ ] Confirm the repo import finished successfully
+- [x] Confirm the repo import finished successfully
 - [ ] Open README.md and write one sentence describing the project
-- [ ] Find a small file, edit it, and commit the change
+- [x] Find a small file, edit it, and commit the change
 - [ ] Create an Issue: "Check project files" listing README, .github/workflows, one code file
 
 Notes and what I learned
