@@ -22,7 +22,7 @@ Helpful tips
 - If you are not sure, keep a branch and open a Pull Request — that way changes can be reviewed and merged safely.
 
 Next steps you can do right now
-- Open the Dev branch and create a file docs/week-01.md from the provided template.
+- Open the Dev branch and create a file docs/week-01.md from the provided template. Done
 - Create an Issue titled "Start Week 1" and assign it to yourself.
 
-If you want me to add the week-01 file or templates directly to Dev, tell me and I will create them for you.
+
