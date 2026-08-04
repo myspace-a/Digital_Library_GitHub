@@ -11,7 +11,9 @@ How to use this week
 Daily plan
 Day 1 — Create the week file on a branch
   [x] Create a branch: start-week-02
+  
   [x] Copy this template into docs/week-02.md and commit on start-week-02
+  
   [x] Open a PR: base=Dev, compare=start-week-02
   [x] Merge the PR and delete start-week-02
 
