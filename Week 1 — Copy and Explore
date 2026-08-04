@@ -1,6 +1,6 @@
 Week 1 — Copy and Explore (Digital_Library)
 
-Dates: ____ to ____
+Dates: _3 Aug___ to ____
 
 Goals this week
 - Create Digital_Library_GitHub and copy files from myspace-a/Digital_Library.
@@ -9,9 +9,9 @@ Goals this week
 
 Checklist
 - [x] Confirm the repo import finished successfully
-- [ ] Open README.md and write one sentence describing the project
+- [x] Open README.md and write one sentence describing the project
 - [x] Find a small file, edit it, and commit the change
-- [ ] Create an Issue: "Check project files" listing README, .github/workflows, one code file
+- [x] Create an Issue: "Check project files" listing README, .github/workflows, one code file
 
 Notes and what I learned
 - (Write quick notes here about what you saw and any problems)
