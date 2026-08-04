@@ -10,35 +10,35 @@ How to use this week
 
 Daily plan
 Day 1 — Create the week file on a branch
-  - Create a branch: start-week-02
-  - Copy this template into docs/week-02.md and commit on start-week-02
-  - Open a PR: base=Dev, compare=start-week-02
-  - Merge the PR and delete start-week-02
+  [x] Create a branch: start-week-02
+  [x] Copy this template into docs/week-02.md and commit on start-week-02
+  [x] Open a PR: base=Dev, compare=start-week-02
+  [x] Merge the PR and delete start-week-02
 
 Day 2 — Create an Issue Template
-  - Add: .github/ISSUE_TEMPLATE/update-metadata.md
-  - Include a short checklist for metadata fields (title, author, ISBN, tags)
-  - Commit on a short-lived branch (e.g., issue-template-update) and open PR into Dev
+  [ ] Add: .github/ISSUE_TEMPLATE/update-metadata.md
+  [ ] Include a short checklist for metadata fields (title, author, ISBN, tags)
+  [ ] Commit on a short-lived branch (e.g., issue-template-update) and open PR into Dev
 
 Day 3 — Quick-start doc
-  - Create docs/quick-start.md with 1 short paragraph: how to view files on GitHub and where to find the Learning Plan
-  - Practice editing it in a branch and merging
+  [ ] Create docs/quick-start.md with 1 short paragraph: how to view files on GitHub and where to find the Learning Plan
+  [ ] Practice editing it in a branch and merging
 
 Day 4 — Create labels and a sample issue
-  - On GitHub: create labels: enhancement, bug, docs, help wanted
-  - Create one issue titled "Update sample metadata" using the new template
+  [ ] On GitHub: create labels: enhancement, bug, docs, help wanted
+  [ ] Create one issue titled "Update sample metadata" using the new template
 
 Day 5 — Close an issue by making a change
-  - Make a tiny change (for example, edit docs/quick-start.md)
-  - Commit on a branch, open a PR, merge — then close the issue referencing the PR
+  [ ] Make a tiny change (for example, edit docs/quick-start.md)
+  [ ] Commit on a branch, open a PR, merge — then close the issue referencing the PR
 
 Day 6 — Practice merging and resolving basic conflicts
-  - Create two tiny branches that change different lines in the same file; merge them
-  - If a conflict happens, practice resolving it in the web UI (follow instructions)
+  [ ] Create two tiny branches that change different lines in the same file; merge them
+  [ ] If a conflict happens, practice resolving it in the web UI (follow instructions)
 
 Day 7 — Review & prepare Week 3
-  - Write 3 short notes about what you learned
-  - Create docs/week-03.md from the week template (draft) and open a PR
+  [ ] Write 3 short notes about what you learned
+  [ ] Create docs/week-03.md from the week template (draft) and open a PR
 
 What to expect after each action
 - Creating a branch: saves your changes separately and keeps Dev unchanged.
