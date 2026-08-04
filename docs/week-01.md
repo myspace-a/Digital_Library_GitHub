@@ -20,7 +20,7 @@ Notes and what I learned
 - Learned how to import a repo, how to create and use branches: I'm not sure I know how to delete a branch
 - Branches are usually created as a copy of an existing branch.
 - If I want to create an empty branch the easiest option is to create a new file, select the option to create a new branch and then delete the single file.
-- After a Pull request it's possible to delete a branch
+- After a Pull request it's possible to delete a branch. Branches can be deleted from the branch menu
 
 Next steps for Week 2
 - (Fill in or copy Week 2 tasks from LEARNING_PLAN.md)
