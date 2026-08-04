@@ -12,7 +12,7 @@ Checklist
 - [x] Open README.md and write one sentence describing the project
 - [x] Find a small file, edit it, and commit the change
 - [x] Create an Issue: "Check project files" listing README, .github/workflows, one code file
-- [ ] Learn about branches — create a branch called explore-files and switch to it in the web UI.
+- [ x] Learn about branches — create a branch called explore-files and switch to it in the web UI.
 - [ ] Practice editing a file on the branch and open a Pull Request (PR) to merge to default branch. Merge the P
 
 
