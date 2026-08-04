@@ -13,11 +13,14 @@ Checklist
 - [x] Find a small file, edit it, and commit the change
 - [x] Create an Issue: "Check project files" listing README, .github/workflows, one code file
 - [x] Learn about branches — create a branch called explore-files and switch to it in the web UI.
-- [ ] Practice editing a file on the branch and open a Pull Request (PR) to merge to default branch. Merge the P
+- [x] Practice editing a file on the branch and open a Pull Request (PR) to merge to default branch. Merge the P
 
 
 Notes and what I learned
-- (Write quick notes here about what you saw and any problems)
+- Learned how to import a repo, how to create and use branches: I'm not sure I know how to delete a branch
+- Branches are usually created as a copy of an existing branch.
+- If I want to create an empty branch the easiest option is to create a new file, select the option to create a new branch and then delete the single file.
+- After a Pull request it's possible to delete a branch
 
 Next steps for Week 2
 - (Fill in or copy Week 2 tasks from LEARNING_PLAN.md)
