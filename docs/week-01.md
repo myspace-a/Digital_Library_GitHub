@@ -1,6 +1,6 @@
 Week 1 — Copy and Explore (Digital_Library)
 
-Dates: ____ to ____
+Dates: _Aug 3___ to _Aub 4___
 
 Goals this week
 - Create Digital_Library_GitHub and copy files from myspace-a/Digital_Library.
