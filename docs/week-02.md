@@ -19,11 +19,11 @@ Day 1 — Create the week file on a branch
   [x] Merge the PR and delete start-week-02
 
 Day 2 — Create an Issue Template
-  [ ] Add: .github/ISSUE_TEMPLATE/update-metadata.md
+  [x] Add: .github/ISSUE_TEMPLATE/update-metadata.md
   
-  [ ] Include a short checklist for metadata fields (title, author, ISBN, tags)
+  [x] Include a short checklist for metadata fields (title, author, ISBN, tags)
   
-  [ ] Commit on a short-lived branch (e.g., issue-template-update) and open PR into Dev
+  [x] Commit on a short-lived branch (e.g., issue-template-update) and open PR into Dev
 
 Day 3 — Quick-start doc
   [ ] Create docs/quick-start.md with 1 short paragraph: how to view files on GitHub and where to find the Learning Plan
