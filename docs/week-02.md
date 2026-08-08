@@ -26,12 +26,13 @@ Day 2 — Create an Issue Template
   [x] Commit on a short-lived branch (e.g., issue-template-update) and open PR into Dev
 
 Day 3 — Quick-start doc
-  [ ] Create docs/quick-start.md with 1 short paragraph: how to view files on GitHub and where to find the Learning Plan
+
+  [x] Create docs/quick-start.md with 1 short paragraph: how to view files on GitHub and where to find the Learning Plan
   
-  [ ] Practice editing it in a branch and merging
+  [x] Practice editing it in a branch and merging
 
 Day 4 — Create labels and a sample issue
-  [ ] On GitHub: create labels: enhancement, bug, docs, help wanted
+  [x] On GitHub: create labels: enhancement, bug, docs, help wanted
   
   [ ] Create one issue titled "Update sample metadata" using the new template
 
