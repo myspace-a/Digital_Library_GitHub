@@ -14,7 +14,7 @@ Acceptance criteria
 - [ ] AC 2 — example: Metadata fields (title, author, ISBN) are validated.
 - [ ] AC 3 — example: Unit tests cover the main behavior.
 
-Sub-tasks / Implementation checklist
+(Optional) Sub-tasks / Implementation checklist
 - [ ] Design / spec (link if needed)
 - [ ] Implement code
 - [ ] Add tests
