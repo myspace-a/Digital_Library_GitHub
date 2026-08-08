@@ -42,6 +42,7 @@ Day 5 — Close an issue by making a change
   [ ] Commit on a branch, open a PR, merge — then close the issue referencing the PR
 
 Day 6 — Practice merging and resolving basic conflicts
+
   [ ] Create two tiny branches that change different lines in the same file; merge them
   
   [ ] If a conflict happens, practice resolving it in the web UI (follow instructions)
