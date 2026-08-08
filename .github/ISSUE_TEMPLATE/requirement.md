@@ -1,4 +1,5 @@
 ---
+Number: #
 name: Requirement
 about: Describe a requirement or feature with acceptance criteria and tasks.
 title: 'Requirement: '
