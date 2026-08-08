@@ -34,18 +34,18 @@ Day 3 — Quick-start doc
 Day 4 — Create labels and a sample issue
   [x] On GitHub: create labels: enhancement, bug, docs, help wanted
   
-  [ ] Create one issue titled "Update sample metadata" using the new template
+  [x] Create one issue titled "Update sample metadata" using the new template
 
 Day 5 — Close an issue by making a change
-  [ ] Make a tiny change (for example, edit docs/quick-start.md)
+  [x] Make a tiny change (for example, edit docs/quick-start.md)
   
-  [ ] Commit on a branch, open a PR, merge — then close the issue referencing the PR
+  [x] Commit on a branch, open a PR, merge — then close the issue referencing the PR
 
 Day 6 — Practice merging and resolving basic conflicts
 
-  [ ] Create two tiny branches that change different lines in the same file; merge them
+  [x] Create two tiny branches that change different lines in the same file; merge them
   
-  [ ] If a conflict happens, practice resolving it in the web UI (follow instructions)
+  [x] If a conflict happens, practice resolving it in the web UI (follow instructions)
 
 Day 7 — Review & prepare Week 3
   [ ] Write 3 short notes about what you learned
